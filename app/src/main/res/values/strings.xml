@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">""</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">nybles</string>
+    <string name="backdrop_subtitle">Taking small bytes out of Information</string>
+    <string name="action_settings">Settings</string>
+</resources>
